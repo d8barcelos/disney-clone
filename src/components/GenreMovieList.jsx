@@ -1,4 +1,4 @@
-import React from 'react'
+
 import GenresList from '../constant/GenreList'
 import MovieList from './MovieList'
 

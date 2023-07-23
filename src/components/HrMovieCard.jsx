@@ -1,6 +1,7 @@
 
 const IMAGE_BASE_URL="https://image.tmdb.org/t/p/original";
 
+// eslint-disable-next-line react/prop-types
 function HrMovieCard({movie}) {
   return (
     <section className='hover:scale-110 transition-all duration-150 ease-in'>
